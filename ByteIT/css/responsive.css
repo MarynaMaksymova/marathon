@@ -1,0 +1,28 @@
+/* Xl 1200px */
+
+/* L 992-1199px */
+
+body {
+    max-width: 960px;
+}
+
+/* M 768-991px */
+
+body {
+    max-width: 720px;
+}
+
+/* S 540-719px */
+
+body {
+    max-width: 540px;
+}
+
+/* XS 320-539px */
+
+body {
+    max-width: auto;
+}
+
+
+/* Max container width*/
